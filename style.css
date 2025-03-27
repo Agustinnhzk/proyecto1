@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(to left, #6a11cb 40%, #2575fc 100%);
+  font-family: Arial, sans-serif;
+}
+
+/* Tarjeta del formulario */
+.card {
+  border-radius: 10px;
+  background: #fff;
+}
+
+/* Títulos */
+h2 {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Inputs */
+.form-control {
+  border-radius: 5px;
+}
+
+/* Botón de login */
+.btn-primary {
+  background-color: #6a11cb;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #4e0ea7;
+}
+
+/* Enlace de registro */
+a {
+  text-decoration: none;
+  color: #6a11cb;
+}
+
+a:hover {
+  text-decoration: underline;
+}
